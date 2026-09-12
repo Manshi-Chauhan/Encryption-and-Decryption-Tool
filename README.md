@@ -45,7 +45,7 @@ Encryption-Decryption-Tool/
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/encryption-decryption-tool.git
+git clone https://github.com/Manshi-Chauhan/Encryption-and-Decryption-Tool.git
 ```
 
 or download the ZIP file and extract it.
